@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "intelligent_voice.h": "c",
+        "camera.h": "c",
+        "picture.h": "c"
+    }
+}
